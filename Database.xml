@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Database>
+    <Users>
+        <Premium_user>
+            <Codice_carta>1</Codice_carta>
+            <E_mail>giovannipozzi@gmail.com</E_mail>
+            <Nome>Giovanni</Nome>
+            <Cognome>Pozzi</Cognome>
+            <Telefono>3387764856</Telefono>
+            <Punti>47</Punti>
+        </Premium_user>
+        <Employee_user>
+            <Codice_carta>2</Codice_carta>
+            <E_mail>agatafesta@gmail.com</E_mail>
+            <Nome>Agata</Nome>
+            <Cognome>Festa</Cognome>
+            <Telefono>2287546534</Telefono>
+            <Punti>132</Punti>
+        </Employee_user>
+    </Users>
+    <Items>
+        <Libro>
+            <Codice>1</Codice>
+            <Prezzo>10</Prezzo>
+            <Titolo>Marcovaldo ovvero Le stagioni in città</Titolo>
+            <Autore>Italo Calvino</Autore>
+            <Lingua>italiano</Lingua>
+            <Editore>Mondadori</Editore>
+            <Data_pubblicazione>08.06.1993</Data_pubblicazione>
+            <ISBN>978-8804370567</ISBN>
+        </Libro>
+        <Libro>
+            <Codice>2</Codice>
+            <Prezzo>6</Prezzo>
+            <Titolo>Il visconte dimezzato</Titolo>
+            <Autore>Italo Calvino</Autore>
+            <Lingua>Italiano</Lingua>
+            <Editore>Mondadori</Editore>
+            <Data_pubblicazione>13.04.2010</Data_pubblicazione>
+            <ISBN>978-8804598909</ISBN>
+        </Libro>
+        <DVD>
+            <Codice>3</Codice>
+            <Prezzo>8</Prezzo>
+            <Titolo>Matrix</Titolo>
+            <Regista>Larry e Andy Wachowski</Regista>
+            <Formato>2.35:1</Formato>
+            <Audio>Italiano</Audio>
+            <Lingua>Italiano</Lingua>
+            <Sottotitoli>Italiano, Inglese</Sottotitoli>
+            <Data_uscita>01.01.2015</Data_uscita>
+            <Durata>131</Durata>
+        </DVD>
+        <Libro>
+            <Codice>4</Codice>
+            <Prezzo>15</Prezzo>
+            <Titolo>L'amico ritrovato</Titolo>
+            <Autore>Fred Uhlman</Autore>
+            <Lingua>Italiano</Lingua>
+            <Editore>Feltrinelli</Editore>
+            <Data_pubblicazione>27.12.2012</Data_pubblicazione>
+            <ISBN>978-8807880735</ISBN>
+        </Libro>
+        <DVD>
+            <Codice>5</Codice>
+            <Prezzo>16</Prezzo>
+            <Titolo>Inception</Titolo>
+            <Regista>Chrisopher Nolan</Regista>
+            <Formato>16:9</Formato>
+            <Audio>Italiano</Audio>
+            <Lingua>Italiano</Lingua>
+            <Sottotitoli>Italiano, Inglese</Sottotitoli>
+            <Data_uscita>27.01.2011</Data_uscita>
+            <Durata>148</Durata>
+        </DVD>
+    </Items>
+</Database>
